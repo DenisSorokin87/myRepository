@@ -1,0 +1,26 @@
+{
+	
+	"response1" : [
+	{
+		"first_name" : "Denis",
+		"last_name" : "Sorokin"
+	},
+	{
+		"first_name" : "Yulia",
+		"last_name" : "Sorokin"
+	}
+	],
+
+	
+	"response" : [
+	{
+		"first_name" : "Denis",
+		"last_name" : "Sorokin"
+	},
+	{
+		"first_name" : "Yulia",
+		"last_name" : "Sorokin"
+	}
+	]
+}
+
